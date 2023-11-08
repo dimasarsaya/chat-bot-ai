@@ -5,7 +5,7 @@ const chatBotToggler = document.querySelector(".chatbot-toggler");
 const chatBotCloseBtn = document.querySelector(".close-btn");
 
 // api openai
-const API_KEY = "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";
+const API_KEY = "OPEN AI API";
 
 const inputInitheight = chatInput.scrollHeight;
 let userMessage;
